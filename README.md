@@ -30,7 +30,7 @@ This folders should not be changed, unless you're ready to play with fire! :) - 
  
 ## Some informations
 
-The Linux, Mac Os and Windows. You must have 4GB of free memory.
+Available for Linux, Mac Os and Windows. You must have 4GB of free memory.
 
 
 ## Available Software
