@@ -9,7 +9,9 @@ Virtual Machine for Information System 1 - ISEL 2018-19Winter
 
 2. Virtual Box in https://www.virtualbox.org.
 
-3. In directory SQLSERVER run:<br>
+3. Copy SQLSERVER folder and all your contents to your personal computer.
+
+4. Inside SQLSERVER folder run:<br>
 
 	$ vagrant up  		--  to start VM, <br>
 	$ vagrant suspend 	-- 	to suspend, and <br>
