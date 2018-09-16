@@ -11,9 +11,9 @@ Virtual Machine for Information System 1 - ISEL 2018-19Winter
 
 3. In directory SQLSERVER run:<br>
 
-	$ vagrant up  		% to start VM, <br>
-	$ vagrant suspend 	% to suspend and <br>
-	$ vagrant destroy 	% to remove all inside your machine <br>
+	$ vagrant up  		--  to start VM, <br>
+	$ vagrant suspend 	-- to suspend and <br>
+	$ vagrant destroy 	-- to remove all inside your machine <br>
 
 ## Description
 
