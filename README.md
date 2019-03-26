@@ -1,5 +1,5 @@
 # VM-InformationSystem
-Virtual Machine for Information System 1 - ISEL 2018-19Winter
+Virtual Machine for Information System 1 - LEIC -- ADEETC/ISEL 
 
 ## Instructions
 
@@ -14,8 +14,7 @@ Virtual Machine for Information System 1 - ISEL 2018-19Winter
 4. Inside SQLSERVER folder run:<br>
 
 	$ vagrant up  		--  to start VM, <br>
-	$ vagrant suspend 	-- 	to suspend, <br>
-	$ vagrant halt		--  to shutdown, and <br>
+	$ vagrant suspend 	-- 	to suspend, and <br>
 	$ vagrant destroy 	-- 	to remove all inside your machine <br>
 
 ## Description
@@ -47,6 +46,6 @@ Available for Linux, Mac Os and Windows. You must have 4GB of free memory.
 	Matilde Pós-de-Mina Pato 
 	Nuno Datia 
 
-Last update: September, 16th 2018 
+Last update: March, 25th 2019 
 
 **this package are not official for ISEL/IPL**
