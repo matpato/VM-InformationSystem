@@ -22,13 +22,17 @@ Virtual Machine for Information System 1 - ISEL 2018-19Winter
 **SQLSERVER**: This is the main directory and includes:
 
 1. data: Home directory. Shared folder with VM;
-2. scripts: Provisioning in Vagrant allow you to automatically install software, alter configurations, and more on the machine as part of the vagrant up process. ;
-3. Vagrantfile: Describe the type of machine required for a project, and how to configure and provision these machines.
+2. scripts: Provisioning in Vagrant allow you to automatically install software, alter configurations, and more on the machine as part of the vagrant up process;
+3. Vagrantfile: Describe the type of machine required for a project, and how to configure and provision these machines;
 4. **Only for Windows users**  Vagrantfile_ONLY4WINDOWS: If your system machine is a Windows, and you cannot connect to your virtual machine with Vagrantfile file:
-	a) run vagrant destroy
-	b) delete .vagrant.d from C:\\Users\nameofUser\.vagrant.d
-	c) remove Vagrantfile from SQLSERVER folder, or change the name
-	c) rename Vagrantfile_ONLY4WINDOWS to Vagrantfile
+
+ 	a) run vagrant destroy;
+
+	b) delete .vagrant.d from C:\\Users\nameofUser\.vagrant.d;
+
+	c) remove Vagrantfile from SQLSERVER folder, or change the name;
+
+	c) rename Vagrantfile_ONLY4WINDOWS to Vagrantfile.
 
 This folders should not be changed, unless you're ready to play with fire! :) - **DO NOT CHANGE**).
 	
@@ -51,6 +55,6 @@ Available for Linux, Mac Os and Windows. You must have 4GB of free memory.
 	Matilde Pós-de-Mina Pato 
 	Nuno Datia 
 
-Last update: September, 16th 2018 
+Last update: November, 20th 2019 
 
 **this package are not official for ISEL/IPL**
