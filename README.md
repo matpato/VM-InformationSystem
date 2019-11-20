@@ -26,9 +26,9 @@ Virtual Machine for Information System 1 - ISEL 2018-19Winter
 3. Vagrantfile: Describe the type of machine required for a project, and how to configure and provision these machines;
 4. **Only for Windows users**  Vagrantfile_ONLY4WINDOWS: If your system machine is a Windows, and you cannot connect to your virtual machine with Vagrantfile file:
 
- 	a) run vagrant destroy;
+ 	a) run >> vagrant destroy;
 
-	b) delete .vagrant.d from C:\\Users\nameofUser\.vagrant.d;
+	b) delete .vagrant.d from C:\\Users\nameofUser\ .vagrant.d;
 
 	c) remove Vagrantfile from SQLSERVER folder, or change the name;
 
